@@ -8,6 +8,10 @@
   #########################################################################
 */
 
+//
+// Author: joe hou
+//
+
 #include <TFT_eSPI.h> // Hardware-specific library
 #include <SPI.h>
 #include "esp_adc_cal.h"
